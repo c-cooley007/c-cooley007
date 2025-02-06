@@ -1,5 +1,11 @@
 <h1>Hi, I'm Christina! <br/><a href="https://github.com/c-cooley007/> Aspiring Systems Administrator</a>, <a href="https://www.linkedin.com/in/ccooley07/">Top Tier Service Desk Specialist</a>, <a> Army Veteran <a> </h1>
 
+<h2> About Me: </h2>
+<br>
+Currently on a journey to become a Systems Administrator.  Exploring Linux, scripting, and automation.  
+Dedicated to continuous learning and building practical skills.  
+Looking for opportunities to collaborate and grow.
+
 <h2>Cybersecurity Projects:</h2>
 
 - <b>NVMe Drive Partitioning and Mounting</b>
