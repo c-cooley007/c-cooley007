@@ -1,9 +1,10 @@
-<h1>Hi, I'm Christina! <br/> <a> Aspiring Systems Administrator <a>, 
-  <a href="https://github.com/c-cooley007/> Aspiring Systems Administrator </a>, 
-    <a href="https://www.linkedin.com/in/ccooley07/"> Top Tier Service Desk Specialist</a>, <a> Army Veteran <a> </h1>
+<h1>Hi, I'm Christina! <br/>
+  <a> Aspiring Systems Administrator <a>
+    <br/> <a href="https://github.com/c-cooley007/> Aspiring Systems Administrator </a>
+          <br/> <a href="https://www.linkedin.com/in/ccooley07/"> Top Tier Service Desk Specialist</a> 
+    <br/> <a> Army Veteran <a> </h1> <br>
 
 <h2> About Me: </h2>
-<br>
 Currently on a journey with NPower's Cybersecurity Program. Seeking to become a Systems Administrator.  
 Dedicated to continuous learning and building practical skills. This incredible opportunity offers intensive training 
 in crucial areas like Sec+, Linux+, and Splunk, along with invaluable professional development and career guidance. I'm 
