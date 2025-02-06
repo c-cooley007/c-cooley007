@@ -9,6 +9,11 @@ A huge thank you to NPower for this chance to serve and prepare for my next chap
 <br>
 
 <h2>Cybersecurity Projects:</h2>
+<!--
+- <b>User & Group Management Lab</b>
+  - [User & Group Management](https://github.com/c-cooley007/NVMe_Setup)
+  - [This lab focuses on essential user management in Kali Linux, covering commands for creating, modifying, and deleting user accounts. You’ll learn to manage user settings, modify account details, and control system access through user locks and deletions. By the end, you'll be equipped with the skills to perform vital system administration tasks to ensure a secure and organized Linux environment.]
+--!> 
 
 - <b>NVMe Drive Partitioning and Mounting</b>
   - [NVMe Drive Partitioning and Mounting](https://github.com/c-cooley007/NVMe_Setup)
