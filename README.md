@@ -2,9 +2,12 @@
 
 <h2> About Me: </h2>
 <br>
-Currently on a journey to become a Systems Administrator.  Exploring Linux, scripting, and automation.  
-Dedicated to continuous learning and building practical skills.  
-Looking for opportunities to collaborate and grow.
+Currently on a journey with NPower's Cybersecurity Program. Seeking to become a Systems Administrator.  
+Dedicated to continuous learning and building practical skills. This incredible opportunity offers intensive training 
+in crucial areas like Sec+, Linux+, and Splunk, along with invaluable professional development and career guidance. I'm 
+excited to get into this program, gain in-demand skills, and transition seamlessly into the cybersecurity field. 
+A huge thank you to NPower for this chance to serve and prepare for my next chapter. Looking for opportunities to collaborate and grow. 
+<br>
 
 <h2>Cybersecurity Projects:</h2>
 
